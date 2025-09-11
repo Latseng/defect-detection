@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+output_marked.jpg
+defects.csv
+.venv/
